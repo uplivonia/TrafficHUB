@@ -1,0 +1,9 @@
+:root { font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial; }
+body { margin: 0; background: #0b0f14; color: #e6edf3; }
+a { color: inherit; }
+.card { background: #111827; border: 1px solid #1f2937; border-radius: 16px; padding: 16px; }
+.grid { display: grid; gap: 12px; }
+.btn { cursor: pointer; padding: 10px 12px; border-radius: 12px; border: 1px solid #243041; background: #0f172a; color: #e6edf3; }
+.input { padding: 10px 12px; border-radius: 12px; border: 1px solid #243041; background: #0b1220; color: #e6edf3; }
+.row { display:flex; gap: 12px; align-items:center; flex-wrap: wrap; }
+.small { opacity: .8; font-size: 12px; }
